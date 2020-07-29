@@ -1,0 +1,16 @@
+body {
+  background-color: #d4f3ef;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 3%;
+  border-color: grey;
+  height: 10px;
+  border-width: 5px;
+}
+h1{color: #00005c;}
+h2{color: #00005c;}
+h3{color: #00005c;}
+img{border-radius: 50%;}
+.universe{border-radius: 10%;}
